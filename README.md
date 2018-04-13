@@ -1,5 +1,6 @@
 # Clay-Phoenix-Ethermine-Autostarter
 Phoenix,Claymore Devfee no Hash Stop ,Autostart the Miner and Go
+
 Download: https://mirrorace.com/m/1qlvn
 
 Phoenixminer,Claymoreminer,Ethereum miner WatchDog by DiGiTaLPaRa (SiMSeK-GitHub)
@@ -44,7 +45,9 @@ Download or Clone
 Unzip
 Copy minerWatchDog.bat (Windows) or minerWatchDog.sh (Linux) to Phoenixminer,Claymoreminer,Ethereum miner folder.
 Modify the code between:
+
 ==================== Your Code Starts Here ====================
+
 ==================== Your Code Ends Here ====================
 Run the script.
 Feedback
@@ -64,15 +67,10 @@ MIT © simsek (Digitalpara-GitHub).
 Donations
 If you find this useful please donate something at the following:
 
-Bitcoin Address (BTC):
+Bitcoin Address (BTC): 1P4WiVsZ8H7PHKNBXyXzZwqxnEjot7UXfM
 
-1P4WiVsZ8H7PHKNBXyXzZwqxnEjot7UXfM
-Ethereum Address (ETH):
+Ethereum Address (ETH): 0x7F5BB53c415334235a9E42eA03695F11b6553C0D
 
-0x7F5BB53c415334235a9E42eA03695F11b6553C0D
-Dogecoin Address (DGC):
+Dogecoin Address (DGC): DQNSpJbg7trxX2Ecof6MqLTvhhaszr7HC5
 
-DQNSpJbg7trxX2Ecof6MqLTvhhaszr7HC5
-Redcoin Address (RC):
-
-RmrmNoNkzDpjbpDQNRuuHKCSSaxoUMcb5R
+Redcoin Address (RC): RmrmNoNkzDpjbpDQNRuuHKCSSaxoUMcb5R
